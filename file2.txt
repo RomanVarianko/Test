@@ -1,2 +1,3 @@
 Good Bye!
 Good Bye again!
+And Hello from User2!
